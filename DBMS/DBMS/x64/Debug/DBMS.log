@@ -1,0 +1,5 @@
+﻿  TreeTables.cpp
+C:\Users\desxz\source\repos\DBMS\DBMS\DBMSView.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '/TreeTables.cpp')
+  
+  DBMS.vcxproj -> C:\Users\desxz\source\repos\DBMS\DBMS\x64\Debug\DBMS.exe
